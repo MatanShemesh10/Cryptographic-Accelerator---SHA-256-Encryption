@@ -3,8 +3,9 @@
 
 In the RISC-V and Artificial Intelligence hackathon, we were tasked with implementing the SHA-256 encryption, which encrypts passwords by transforming and altering the content of strings.
 
-![Uploading image.png…]()
+![image](https://github.com/MatanShemesh10/Cryptographic-Accelerator---SHA-256-Encryption/assets/122441156/13060b93-bb7f-4c37-8333-d25aa8d4761c)
 
+![image](https://github.com/MatanShemesh10/Cryptographic-Accelerator---SHA-256-Encryption/assets/122441156/29feaf00-7b8a-4096-8bc5-c85a34a2046b)
 
 Since the algorithm involves numerous operations and lengthy computations, there is a need to reduce the execution time and resource consumption for the algorithm to perform efficiently. With the help of the AI accelerator, we aim to achieve our goal: reducing the execution time, obtaining faster results, and using fewer resources (by implementing it in Verilog).
 
